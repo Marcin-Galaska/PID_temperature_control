@@ -1,0 +1,16 @@
+../Core/Src/LCD.c:26:20:LCD_SetDataPort	5
+../Core/Src/LCD.c:118:13:LCD_DataOut	1
+../Core/Src/LCD.c:191:6:LCD_WriteByte	1
+../Core/Src/LCD.c:220:6:LCD_WriteCmd	1
+../Core/Src/LCD.c:232:6:LCD_WriteData	1
+../Core/Src/LCD.c:247:6:LCD_Char	3
+../Core/Src/LCD.c:255:6:LCD_String	2
+../Core/Src/LCD.c:265:6:LCD_Int	1
+../Core/Src/LCD.c:275:6:LCD_Hex	2
+../Core/Src/LCD.c:288:6:LCD_DefChar	2
+../Core/Src/LCD.c:302:6:LCD_Home	1
+../Core/Src/LCD.c:310:6:LCD_Cursor	2
+../Core/Src/LCD.c:321:6:LCD_Blink	2
+../Core/Src/LCD.c:332:6:LCD_Locate	3
+../Core/Src/LCD.c:362:6:LCD_Cls	1
+../Core/Src/LCD.c:370:6:LCD_Init	1
