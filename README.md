@@ -1,5 +1,7 @@
 # PID_temperature_control
- An STM32 project that implements a PID controller to a ceramic resistor-based circuit.
+An STM32 project that implements a PID controller to a ceramic resistor-based circuit.
+
+Nucleo board model used for this project is F746ZG.
 
 ### Features
 - Real time PID regulation
