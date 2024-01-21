@@ -76,13 +76,6 @@ float Kp = 0.3073f;
 float Ki = 0.0035f;
 float Kd = 0.0122f;
 float dt = 1.0f;
-
-//float Kp = 0.607338773069937f;
-//float Ki = 0.00245637321622817f;
-//float Kd = 0.0f;
-//float dt = 1.0f;
-
-
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
